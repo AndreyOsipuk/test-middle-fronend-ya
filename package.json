@@ -1,0 +1,20 @@
+{
+  "name": "ya-test-middle-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreyOsipuk/test-middle-fronend-ya.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreyOsipuk/test-middle-fronend-ya/issues"
+  },
+  "homepage": "https://github.com/AndreyOsipuk/test-middle-fronend-ya#readme"
+}
